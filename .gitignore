@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### FILES ###
+docker/employee-management.jar
+mvnw
+mvnw.cmd
