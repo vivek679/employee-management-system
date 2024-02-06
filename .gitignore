@@ -36,3 +36,4 @@ build/
 docker/employee-management.jar
 mvnw
 mvnw.cmd
+.mvn
